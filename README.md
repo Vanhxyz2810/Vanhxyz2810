@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.4d49eb7ee6fefab3e8b58e97edf00f57?rik=9aZ7Injx%2bqtX%2bw&pid=ImgRaw&r=0)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/R.c99e353f761d318322c853c03ebcf21b?rik=ONZb1Hwno8siow&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vanhxyz</h1>
 <h2 align="center">An app developer from Vietnam ☢️ </h2>
 <img align="right" alt="Coding" width="570" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
