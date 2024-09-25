@@ -30,5 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanhxyz2810&show_icons=true&locale=en" alt="vanhxyz2810" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanhxyz2810&" alt="vanhxyz2810" /></p>
+<h3 align="left">Snake contributions </h3>
 <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img src="https://raw.githubusercontent.com/nedsion/nedsion/output/github-contribution-grid-snake-dark.svg" alt="snake" style="max-width: 100%;"></a>
 
