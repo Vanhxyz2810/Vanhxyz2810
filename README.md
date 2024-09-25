@@ -1,9 +1,10 @@
 [![MasterHead](https://th.bing.com/th/id/R.c99e353f761d318322c853c03ebcf21b?rik=ONZb1Hwno8siow&pid=ImgRaw&r=0)](https://rishavchanda.io)
-<h1 align="center">Hi There <a target="_blank" rel="noopener noreferrer" href="https://github.com/nedsion/nedsion/blob/main/wave.gif" data-target="animated-image.originalLink"><img src="https://github.com/nedsion/nedsion/raw/main/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Vanhxyz</h1>
+<h1 align="center">Hi , <a target="_blank" rel="noopener noreferrer" href="https://github.com/nedsion/nedsion/blob/main/wave.gif" data-target="animated-image.originalLink"><img src="https://github.com/nedsion/nedsion/raw/main/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Vanhxyz</h1>
 <h2 align="center">An app developer from Vietnam ☢️ </h2>
 <img align="right" alt="Coding" width="570" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanhxyz2810&label=Profile%20views&color=0e75b6&style=flat" alt="vanhxyz2810" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/507a45c0ee06e56c74b80d956cbd12f99cd83e3f1bac4d2fcc8e8a1313d6f97d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e656473696f6e266c6162656c3d56697369746f72732b436f756e7426636f6c6f723d627269676874677265656e" alt="vanhxyz2810" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
