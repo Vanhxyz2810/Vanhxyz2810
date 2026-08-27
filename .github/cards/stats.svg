@@ -1,0 +1,62 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="statsBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39ff9d">
+        <animate attributeName="stop-color"
+                 values="#39ff9d; #0d3320; #1a1a1a; #39ff9d"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#1a1a1a">
+        <animate attributeName="stop-color"
+                 values="#1a1a1a; #39ff9d; #0d3320; #1a1a1a"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="statsNum" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39ff9d"/>
+      <stop offset="100%" stop-color="#7fdba0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="797" height="197" rx="20"
+        fill="none" stroke="url(#statsBorder)" stroke-width="2"/>
+  <rect x="4" y="4" width="792" height="192" rx="18" fill="#0a0a0a" />
+
+  <g transform="translate(24,22)">
+    <rect x="0" y="0" width="18" height="18" rx="4" fill="#0a0a0a" stroke="#39ff9d" stroke-width="1" />
+    <text x="9" y="10" font-family="'Fira Code', ui-monospace, Consolas, monospace"
+          font-size="11" fill="#39ff9d" text-anchor="middle" dominant-baseline="central">#</text>
+    <text x="30" y="16" fill="url(#statsNum)"
+          font-family="'Fira Code', ui-monospace, Consolas, monospace"
+          font-size="19" font-weight="700">
+      Stats
+    </text>
+  </g>
+
+  <line x1="24" y1="60" x2="776" y2="60" stroke="#1a1a1a" stroke-width="1"/>
+
+  <line x1="200" y1="76" x2="200" y2="150" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="400" y1="76" x2="400" y2="150" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="600" y1="76" x2="600" y2="150" stroke="#1a1a1a" stroke-width="1"/>
+
+  <g font-family="'Fira Code', ui-monospace, Consolas, monospace" text-anchor="middle">
+    <text x="100" y="118" font-size="36" font-weight="700" fill="url(#statsNum)">30</text>
+    <text x="100" y="142" font-size="12" fill="#b4b4b4">REPOS</text>
+
+    <text x="300" y="118" font-size="36" font-weight="700" fill="url(#statsNum)">33</text>
+    <text x="300" y="142" font-size="12" fill="#b4b4b4">STARS</text>
+
+    <text x="500" y="118" font-size="36" font-weight="700" fill="url(#statsNum)">14</text>
+    <text x="500" y="142" font-size="12" fill="#b4b4b4">FOLLOWERS</text>
+
+    <text x="700" y="118" font-size="30" font-weight="700" fill="url(#statsNum)">HTML</text>
+    <text x="700" y="142" font-size="12" fill="#b4b4b4">TOP LANG</text>
+  </g>
+
+  <text x="400" y="178" text-anchor="middle" fill="#7fdba0"
+        font-family="'Fira Code', ui-monospace, Consolas, monospace" font-size="11">
+    HTML · TypeScript · Python · C++ · JavaScript
+  </text>
+</svg>
