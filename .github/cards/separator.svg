@@ -1,0 +1,73 @@
+<svg width="800" height="70" viewBox="0 0 800 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sepGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39ff9d">
+        <animate attributeName="stop-color"
+                 values="#39ff9d; #0d3320; #1a1a1a; #39ff9d"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#1a1a1a">
+        <animate attributeName="stop-color"
+                 values="#1a1a1a; #39ff9d; #0d3320; #1a1a1a"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <line x1="40" y1="38" x2="760" y2="38"
+        stroke="#1a1a1a"
+        stroke-width="1.2"
+        stroke-linecap="round" />
+
+  <g>
+    <path d="M 400 38
+             C 360 26 330 24 300 28
+               260 34 240 42 210 40
+               180 38 150 30 120 32
+               90 34 70 40 55 44"
+          fill="none"
+          stroke="url(#sepGradient)"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round" />
+
+    <circle cx="60" cy="42" r="3" fill="#39ff9d" />
+    <circle cx="74" cy="36" r="2.3" fill="#39ff9d" />
+    <circle cx="88" cy="40" r="1.8" fill="#39ff9d" />
+    <circle cx="106" cy="34" r="1.6" fill="#39ff9d" />
+  </g>
+
+  <g transform="scale(-1,1) translate(-800,0)">
+    <path d="M 400 38
+             C 360 26 330 24 300 28
+               260 34 240 42 210 40
+               180 38 150 30 120 32
+               90 34 70 40 55 44"
+          fill="none"
+          stroke="url(#sepGradient)"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round" />
+
+    <circle cx="60" cy="42" r="3" fill="#39ff9d" />
+    <circle cx="74" cy="36" r="2.3" fill="#39ff9d" />
+    <circle cx="88" cy="40" r="1.8" fill="#39ff9d" />
+    <circle cx="106" cy="34" r="1.6" fill="#39ff9d" />
+  </g>
+
+  <g>
+    <circle cx="400" cy="38" r="12"
+            fill="#0a0a0a"
+            stroke="url(#sepGradient)"
+            stroke-width="2" />
+    <text x="400" y="38"
+          font-family="'Fira Code', ui-monospace, Consolas, monospace"
+          font-size="13"
+          font-weight="700"
+          fill="#39ff9d"
+          text-anchor="middle"
+          dominant-baseline="central">&gt;_</text>
+  </g>
+</svg>

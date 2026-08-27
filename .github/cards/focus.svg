@@ -1,0 +1,61 @@
+<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39ff9d">
+        <animate attributeName="stop-color"
+                 values="#39ff9d; #0d3320; #1a1a1a; #39ff9d"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#1a1a1a">
+        <animate attributeName="stop-color"
+                 values="#1a1a1a; #39ff9d; #0d3320; #1a1a1a"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39ff9d"/>
+      <stop offset="100%" stop-color="#7fdba0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="417" height="207" rx="20"
+        fill="none"
+        stroke="url(#borderGradient)"
+        stroke-width="2"/>
+  <rect x="4" y="4" width="412" height="202" rx="18" fill="#0a0a0a" />
+
+  <g transform="translate(24,22)">
+    <rect x="0" y="0" width="18" height="18" rx="4"
+          fill="#0a0a0a" stroke="#39ff9d" stroke-width="1" />
+    <text x="9" y="10" font-family="'Fira Code', ui-monospace, Consolas, monospace"
+          font-size="11" fill="#39ff9d" text-anchor="middle" dominant-baseline="central">&gt;_</text>
+
+    <text x="30" y="16"
+          fill="url(#titleGradient)"
+          font-family="'Fira Code', ui-monospace, Consolas, monospace"
+          font-size="19"
+          font-weight="700">
+      Focus
+    </text>
+  </g>
+
+  <line x1="24" y1="60" x2="396" y2="60" stroke="#1a1a1a" stroke-width="1"/>
+
+  <text x="24" y="84" fill="#b4b4b4" font-family="'Fira Code', ui-monospace, Consolas, monospace" font-size="12">
+    • Reverse web-side encryption &amp; obfuscation
+  </text>
+  <text x="24" y="106" fill="#b4b4b4" font-family="'Fira Code', ui-monospace, Consolas, monospace" font-size="12">
+    • Deobfuscate minified / packed JS
+  </text>
+  <text x="24" y="128" fill="#b4b4b4" font-family="'Fira Code', ui-monospace, Consolas, monospace" font-size="12">
+    • Break custom crypto in webapps
+  </text>
+  <text x="24" y="150" fill="#b4b4b4" font-family="'Fira Code', ui-monospace, Consolas, monospace" font-size="12">
+    • Bypass anti-tampering / integrity checks
+  </text>
+  <text x="24" y="172" fill="#b4b4b4" font-family="'Fira Code', ui-monospace, Consolas, monospace" font-size="12">
+    • Inspect network traffic &amp; API behavior
+  </text>
+</svg>
