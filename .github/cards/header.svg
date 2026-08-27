@@ -53,11 +53,11 @@
   </text>
 
   <text x="50%" y="78%"
-        font-family="'Fira Code', 'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, monospace"
-        font-size="15"
+        font-family="'Fira Code', 'JetBrains Mono', 'Noto Sans SC', ui-monospace, SFMono-Regular, Consolas, sans-serif, monospace"
+        font-size="16"
         fill="#7fdba0"
         text-anchor="middle"
         dominant-baseline="middle">
-    web cracker :: reverse engineer
+    破而后立
   </text>
 </svg>
