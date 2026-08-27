@@ -1,35 +1,76 @@
-[![MasterHead](https://th.bing.com/th/id/R.c99e353f761d318322c853c03ebcf21b?rik=ONZb1Hwno8siow&pid=ImgRaw&r=0)](https://rishavchanda.io)
-<h1 align="center">Hi , <a target="_blank" rel="noopener noreferrer" href="https://github.com/nedsion/nedsion/blob/main/wave.gif" data-target="animated-image.originalLink"><img src="https://github.com/nedsion/nedsion/raw/main/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Vanhxyz</h1>
-<h2 align="center">An app developer from Vietnam ☢️ </h2>
-<img align="right" alt="Coding" width="570" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanhxyz2810&label=Profile%20views&color=0e75b6&style=flat" alt="vanhxyz2810" /> </p>
-<p align="left"> <img src="https://camo.githubusercontent.com/507a45c0ee06e56c74b80d956cbd12f99cd83e3f1bac4d2fcc8e8a1313d6f97d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e656473696f6e266c6162656c3d56697369746f72732b436f756e7426636f6c6f723d627269676874677265656e" alt="vanhxyz2810" /> </p>
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:0f0f0f,100:00ff41&height=200&section=header&text=Vanhxyz2810&fontSize=60&fontColor=00ff41&fontAlignY=40&animation=fadeIn&desc=web%20cracker%20%7C%20reverse%20engineer&descAlignY=60&descColor=888888)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=root%40vanhxyz%3A~%23+whoami;Web+Reverse+Engineer;Crypto+%2F+Obfuscation+Breaker;Always+reading+minified+JS+at+3AM" alt="typing-svg" />
 
-- 🌱 I’m currently learning **SwiftUI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vanhxyz2810](https://github.com/Vanhxyz2810)
-
-- 💬 Ask me about **Python,C#**
-
-- 📫 How to reach me **vanhlegend2k6@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nvavanhungloibuonno1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nvavanhungloibuonno1" height="30" width="40" /></a>
-<a href="https://discord.gg/SraUj5R6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SraUj5R6" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Vanhxyz2810&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0f0f0f" alt="views" />
+  <img src="https://img.shields.io/github/followers/Vanhxyz2810?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0f0f0f" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhxyz2810&show_icons=true&locale=en&layout=compact" alt="vanhxyz2810" /></p>
+```bash
+┌──(vanhxyz㉿localhost)-[~]
+└─$ cat about.txt
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanhxyz2810&show_icons=true&locale=en" alt="vanhxyz2810" /></p>
+[+] Focus       : Reverse engineering & cracking web-side encryption/obfuscation
+[+] Interests   : JS deobfuscation, custom crypto in webapps, anti-tampering bypass
+[+] Status      : Reading minified/obfuscated JS so you don't have to
+[+] Contact     : vanhlegend2k6@gmail.com
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanhxyz2810&" alt="vanhxyz2810" /></p>
-<h2 align="center">🐍 Snake contributions 🐍</h2>
-<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img src="https://raw.githubusercontent.com/nedsion/nedsion/output/github-contribution-grid-snake-dark.svg" alt="snake" style="max-width: 100%;"></a>
+<br>
 
+### `$ ls -la ./arsenal`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/C-0f0f0f?style=for-the-badge&logo=c&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/C%23-0f0f0f?style=for-the-badge&logo=csharp&logoColor=00ff41" />
+  <br>
+  <img src="https://img.shields.io/badge/Burp%20Suite-0f0f0f?style=for-the-badge&logo=burpsuite&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Wireshark-0f0f0f?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Ghidra-0f0f0f?style=for-the-badge&logo=ghidra&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Postman-0f0f0f?style=for-the-badge&logo=postman&logoColor=00ff41" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-0f0f0f?style=for-the-badge&logo=linux&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=nodedotjs&logoColor=00ff41" />
+</p>
+
+<br>
+
+### `$ ./connect.sh`
+
+<p align="left">
+  <a href="https://www.facebook.com/vanhxyzdev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0f0f0f?style=for-the-badge&logo=facebook&logoColor=00ff41" />
+  </a>
+  <a href="mailto:vanhlegend2k6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=00ff41" />
+  </a>
+</p>
+
+<br>
+
+### `$ ./stats.sh --verbose`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanhxyz2810&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhxyz2810&layout=compact&hide_border=true&bg_color=0f0f0f&title_color=00ff41&text_color=c9d1d9" width="35%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanhxyz2810&hide_border=true&background=0f0f0f&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="streak" />
+</div>
+
+<br>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0:00ff41,100:0f0f0f&height=100&section=footer)
+
+</div>
